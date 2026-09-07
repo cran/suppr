@@ -1,7 +1,7 @@
-604e3e30abeaa7fd7862bba631206f81 *DESCRIPTION
+f535497b630d8b7fab0b3c72eee9be8a *DESCRIPTION
 478c554f1444508009ed6bafc90dcc1f *LICENSE
 b9838c404aa84bf890a710fb5a50b4ac *NAMESPACE
-b2ffdf0fcfbf00b94a920273c8a1288a *NEWS.md
+48a43718d7dec3a0a8bf38c18304b057 *NEWS.md
 7836d5c84197526fbb3fd94d4f1ed4ea *R/arg.r
 f94e13ba32fce4000fd0cf161bfc0a8a *R/character.r
 37e2c1ee2ce266d76210334f0331f010 *R/class.r
@@ -20,7 +20,7 @@ ef562b93308ebba81b04ec31c789a0b9 *R/suppr-package.R
 0069a104844a982a692af701d768529f *R/which.r
 2d269b2ebf4eb9363d542d7b3251f79a *R/whitespace.r
 8d88ff0af2db31dc62759a0ed37beae7 *R/whole.r
-ff4751952e1b5fcac419240ebe18c95b *README.md
+0d5cc339173fcc94d2df58fe2db582d6 *README.md
 a7a6ba9a673bd7304bcbd7512865e33e *man/addClass.Rd
 bb07c1fe6a8c4749598a8b6e1a2ddb2b *man/anyZchar.Rd
 5d0eac244b2a7100dd5e0d96bb57740e *man/bckQuote.Rd
@@ -61,12 +61,12 @@ b5ac6377d46f4ef95ad3185acfccad06 *man/whichMin.Rd
 7e9cfec2e980f40bf52d003503306173 *src/even_odd.c
 cf9dfed59a0d3a2acf47af043ebe83bd *src/integerish.c
 3fa2863cad52b862dce56f7647825e2b *src/non_finite.c
-a96f3556b3d3850c5b14c3c191fc1b1a *src/repeated.c
+2bd8b3fea06d52e7d7e76f9ac7195195 *src/repeated.c
 16b7d7b3ead59bdb488bbc4bf0c7de85 *src/suppr-package.c
 e77191c21263b2d2333497aa11ec71de *src/utils.h
-cc93a923aa5e85ad5f31efe1a529b503 *src/which_all_min_max.c
+a865f6360cb73924eab56a5fcc6593b7 *src/which_all_min_max.c
 6e000e9beb3a02b97a85ae50f030f800 *src/which_last_min_max.c
-15f052ba5e4917ced20be7ec382bba24 *src/which_na.c
+1307d89c0d4c6bea75d8495ca2c0bba2 *src/which_na.c
 60a42be6e803c965f52326e57f439644 *src/whole.c
 8aac7ff090c4665b011192b539102de7 *src/wholenumber.c
 014168ead8f77029da535e11bc81a098 *tests/testthat.R
@@ -98,7 +98,7 @@ c093ff9ff2e97942c91c35ec5d4f681a *tests/testthat/test-repeated.r
 45e3cd5d3a13ecb8ac246a35244faec8 *tests/testthat/test-stopifnot.with.r
 fda34b1f92345e942a4a1e7906864943 *tests/testthat/test-stopifnot2.r
 804c51ef410b86b0ee5f310500ee22d5 *tests/testthat/test-warningifnot.r
-0743f132b8507e94ec5e6c97dd67acb1 *tests/testthat/test-whichNA.r
+5cbc10316e05aedd4f42f6b558b59434 *tests/testthat/test-whichNA.r
 e313211ba093bf545a943ea98ea5b048 *tests/testthat/test-which_min_max.r
 34e16388c27282039bf0afb657095e46 *tests/testthat/test-whitespace.r
 eb094b2ef3966b9e4b416b75b9690875 *tests/testthat/test-whole.r

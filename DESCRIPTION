@@ -1,6 +1,6 @@
 Package: suppr
 Title: Supplementary Idiomatic Utilities and Extensions
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
    person("Luke", "Jenkins", , "luke-jenkins-dev@outlook.com", role = c("aut", "cre", "cph"), comment = c(ORCID = "0000-0002-7206-7242"))
 Description: Miscellaneous supplementary functions designed to follow idiomatic 'R' conventions. Some functions are simple wrappers that reduce repetitive code, while others address common tasks or extend existing 'R' functions.
@@ -15,9 +15,9 @@ URL: https://lj-jenkins.github.io/suppr/,
         https://github.com/LJ-Jenkins/suppr
 BugReports: https://github.com/LJ-Jenkins/suppr/issues
 NeedsCompilation: yes
-Packaged: 2026-08-24 14:59:56 UTC; lukej
+Packaged: 2026-09-07 07:47:21 UTC; lukej
 Author: Luke Jenkins [aut, cre, cph] (ORCID:
     <https://orcid.org/0000-0002-7206-7242>)
 Maintainer: Luke Jenkins <luke-jenkins-dev@outlook.com>
 Repository: CRAN
-Date/Publication: 2026-09-05 13:30:02 UTC
+Date/Publication: 2026-09-07 08:10:02 UTC
